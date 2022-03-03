@@ -10,6 +10,7 @@ Locales['fr'] = {
     ['access_impound'] = "Accès Fourrière",
     ['take_out_vehicle_impound'] = "Sortir Véhicule Fourrière",
     ['no_vehicles_impound'] = "Aucun Véhicule en Fourrière",
+    ['garage_cant_store'] = "Tu ne peux pas ranger le véhicule ici", -- Need translation
     ['garage'] = "Garage",
     ['take_out_vehicle'] = "Sortir Véhicule",
     ['store_vehicle'] = "Entreposer Véhicule",
